@@ -2,6 +2,11 @@
 
 #usb_5-series.txt by Maromi
 
+#add _STA to avoid instant wake
+
+into device label EHC1 insert begin Name(_STA, 0) end;
+into device label EHC2 insert begin Name(_STA, 0) end;
+
 # remove _PRW methods to prevent instant wake
 
 # if _PRW objects are methods
