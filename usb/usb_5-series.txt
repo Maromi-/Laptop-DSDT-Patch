@@ -1,5 +1,6 @@
 #Original by: RehabMan for: Laptop Patches
-#usb_5-series.txt
+
+#usb_5-series.txt by Maromi
 
 # remove _PRW methods to prevent instant wake
 
