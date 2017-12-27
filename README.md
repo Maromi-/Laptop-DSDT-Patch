@@ -1,3 +1,5 @@
+For reference
+
 ## RehabMan's laptop patch repository
 
 This set of patches can be used in DSDT Editor or (preferably) MaciASL to apply
